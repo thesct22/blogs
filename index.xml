@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SCTBLOGS</title>
+    <link>/</link>
+    <description>Recent content on SCTBLOGS</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2020, SCT.</copyright>
+    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your template</title>
+      <link>/your-template/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/your-template/</guid>
+      <description>This is how you write a blog bro. Add shit here in markdown, use Typora. Remove date if you don&amp;rsquo;t want.</description>
+    </item>
+    
+  </channel>
+</rss>
